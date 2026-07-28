@@ -23,7 +23,6 @@ A Machine Learning project that predicts whether a breast tumour is **Benign** o
 - NumPy
 - Scikit-learn
 - Matplotlib
-- Pickle
 
 ---
 
