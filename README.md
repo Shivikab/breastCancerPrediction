@@ -1,6 +1,6 @@
 # 🩺 Breast Cancer Prediction Using Machine Learning
 
-A Machine Learning project that predicts whether a breast tumour is **Benign** or **Malignant** using the Breast Cancer Wisconsin Diagnostic Dataset. The model is built using **Linear Regression** with feature engineering and preprocessing techniques to achieve high prediction accuracy.
+A Machine Learning project that predicts whether a breast tumour is **Benign** or **Malignant** using the Breast Cancer Wisconsin Diagnostic Dataset. The model is built using **Logistic Regression** with feature engineering and preprocessing techniques to achieve high prediction accuracy.
 
 ---
 
